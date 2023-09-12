@@ -14,11 +14,9 @@
   color: tomato">Lógica de programación</h1>
 </div>
 
-<section >
+<section Style= "text-align: justify"; >
 
 <h2>Sesión 1</h2>
-
-
 
 **<summary>Actividad 1: diagnóstico de aprendizajes previos (Trabajo grupal).</summary>**
 
