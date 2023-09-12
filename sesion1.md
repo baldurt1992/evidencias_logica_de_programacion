@@ -3,21 +3,6 @@
 
 ## Sesión 1 
 
-
-<!-- Su documentación aquí -->
-<div style= "background-color: black; padding: 30px">
-
-<div style="text-align: left; font-size: x-large">
-<h1 style= "color: white; font-family: tahoma;  background: -webkit-linear-gradient(#F6E3CE,#ACFA58);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  color: tomato">Lógica de programación</h1>
-</div>
-
-<section Style= "text-align: justify"; >
-
-<h2>Sesión 1</h2>
-
 **<summary>Actividad 1: diagnóstico de aprendizajes previos (Trabajo grupal).</summary>**
 
 **1. ¿Qué es la lógica de programación?**
@@ -66,10 +51,6 @@ son bloques de código que se pueden reutilizar en diferentes partes de un progr
 
 Es un paradigma de programación que se basa en la creación de objetos, que combinan datos y funciones en una sola entidad. Se enfoca en los objetos que los programadores necesitan manipular, en lugar de centrarse en la lógica necesaria para esa manipulación.
 
-</section>
-
-
-</div>
 
 
 
