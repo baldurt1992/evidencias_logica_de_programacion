@@ -14,9 +14,9 @@
   color: tomato">Lógica de programación</h1>
 </div>
 
-<section style= "border: 0.5px solid; padding: 20px; margin-bottom: 20px; background: linear-gradient(153deg, rgba(255,196,148,1) 21%, rgba(255,215,130,1) 45%)">
+<section >
 
-<h2 >Sesión 1</h2>
+<h2>Sesión 1</h2>
 
 
 
