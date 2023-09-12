@@ -128,6 +128,64 @@ System.out.println("--------------------");
 **Inventados:**
 
 ```java
+import java.util.Scanner;
+
+public class inventado {
+
+    public static void main(String[] args) {
+
+        Scanner input = new Scanner(System.in);
+        Scanner input2 = new Scanner(System.in);
+        Scanner input3 = new Scanner(System.in);
+
+        System.out.println("--------------------");
+        System.out.println("EJERCICIO 1: ");
+
+        System.out.println("Ingresa tu promedio: ");
+        double promedio = input.nextDouble();
+
+        if (promedio >= 3) {
+            System.out.println("Aprobaste el semestre");
+        } else {
+            System.out.println("Reprobaste el semestre");
+        }
+
+        System.out.println("--------------------");
+        System.out.println("EJERCICIO 2: ");
+
+        System.out.println("¿Cual es tu género? ");
+        String genre = input2.nextLine();
+
+        if (genre == "Masculino") {
+            System.out.println("Tu género es másculino");
+        } else if (genre == "Femenino") {
+            System.out.println("Tu género es femenino");
+        }
+
+        System.out.println("--------------------");
+        System.out.println("EJERCICIO 3: ");
+
+        System.out.println("¿Es estudiante activo?");
+        System.out.println("Ingrese solo 1 para si / 2 para no");
+        int act = input3.nextInt();
+
+        if (act == 1) {
+            System.out.println("Estás matriculado");
+
+        }
+
+        else {
+            System.out.println("Debes matricularte");
+        }
+        System.out.println("--------------------");
+
+        input.close();
+        input2.close();
+        input3.close();
+
+    }
+}
+```
 
 
 
