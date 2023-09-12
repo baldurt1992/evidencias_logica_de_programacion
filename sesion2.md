@@ -3,9 +3,9 @@
 
 ## Sesión 2
 
+**Actividad 2: Instalación de Entornos de Desarrollo para Java y ejercicios de programación básica.**
 
-<!-- Su documentación aquí -->
-
+## Actividad realizada en clase
 
 
 

@@ -3,9 +3,7 @@
 
 ## Sesión 6
 
-
-<!-- Su documentación aquí -->
-
+### Quiz
 
 
 
