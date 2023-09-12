@@ -3,7 +3,7 @@
 
 ## Sesión 1 
 
-**<summary>Actividad 1: diagnóstico de aprendizajes previos (Trabajo grupal).</summary>**
+**Actividad 1: diagnóstico de aprendizajes previos (Trabajo grupal)**
 
 **1. ¿Qué es la lógica de programación?**
 
