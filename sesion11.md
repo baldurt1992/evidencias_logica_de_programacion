@@ -141,15 +141,15 @@ resto = 0 % 2 = 0
 numeroBinario = 01010
 ```
 
-## Solución:
-
 ### Actividad: Ejercicios de Lógica de Programación
 
 Basándose en el algoritmo 1 de la sesión 11, aplicar la siguiente variante: Dado un conjunto de números enteros, se debe determinar si existe algún número que aparezca más de una vez. Si es así, se deben imprimir todos los números que aparezcan más de una vez.
 
 Desarrollar un algoritmo que realice la conversión de binario a decimal.
 
-1. 
+## Solución:
+
+* 
 
 ```java
 import java.util.ArrayList;
@@ -182,7 +182,7 @@ public class algo1 {
 ```
 
 
-2. 
+* 
 
 ```java
 import java.util.Scanner;
